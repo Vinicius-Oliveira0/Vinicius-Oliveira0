@@ -26,8 +26,8 @@ Eu sou o Vinicius, sou um Programador Junior Front-End, atualmente estou aprende
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Oliveira0&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Oliveira0&show_icons=true&theme=merko"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Oliveira0&layout=compact&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Oliveira0&layout=compact&theme=merko"/>
 </p>
 
