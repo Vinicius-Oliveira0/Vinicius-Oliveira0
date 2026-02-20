@@ -1,4 +1,4 @@
-## Olá! 👋
+ ## Olá! 👋
 
 Eu sou o Vinicius, sou um Programador Junior Front-End, atualmente estou aprendendo e criando com dedicação projetos usando ferramentas como:
 <br>
@@ -25,7 +25,6 @@ Eu sou o Vinicius, sou um Programador Junior Front-End, atualmente estou aprende
 <br>
 <br>
 
-<p align="left">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Oliveira0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
 
