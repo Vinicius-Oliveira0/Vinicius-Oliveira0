@@ -25,6 +25,4 @@ Eu sou o Vinicius, sou um Programador Junior Front-End, atualmente estou aprende
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Oliveira0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
